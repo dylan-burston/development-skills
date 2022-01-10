@@ -11,20 +11,3 @@ function clearInput(){
         $('#addToList') = "";
     }
 }
-
-//Questions: 
-
-// 1.   How to remove the entry once the button is clicked
-// 2.   How to not add a blank string to the list if user clicks button with empty input
-
-
-
-
-
-
-
-
-
-
-
-
